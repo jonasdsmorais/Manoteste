@@ -451,33 +451,33 @@ https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
 
 ############################################################################ AO VIVO 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Ao Vivo | FUTEBOL",CazéTV HD
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/36
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Ao Vivo | FUTEBOL",CazéTV FHD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV YT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Ao Vivo | FUTEBOL",CazéTV YT
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT YT
+#EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="Ao Vivo | FUTEBOL",Canal GOAT YT
 https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 
 ############################################################################ AO VIVO AGORA 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 1
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Ao Vivo | FUTEBOL",JOGO 1
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 2
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Ao Vivo | FUTEBOL",JOGO 2
 https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 3
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Ao Vivo | FUTEBOL",JOGO 3
 https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 4
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Ao Vivo | FUTEBOL",JOGO 4
 https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 5
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Ao Vivo | FUTEBOL",JOGO 5
 https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 
 ############################################################################ CANAIS DE NOTÍCIAS 
@@ -1339,10 +1339,10 @@ http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",Boruto 24h
 http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",Avatar A Lenda de korra
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",Avatar A Lenda de Korra
 http://24hrs.homelinux.com:8080/24H-avataralendadekorra/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",avatar A Lenda de Aang
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",Avatar A Lenda de Aang
 http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",Futurama
